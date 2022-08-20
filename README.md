@@ -1,2 +1,2 @@
 # hyperstrange-invader
-simple demo project
+simple demo project made for job recruitment that i missed
